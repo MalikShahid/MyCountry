@@ -1,2 +1,5 @@
 # MyCountry
-My Country
+The history of Pakistan encompasses the history of the region constituting modern Pakistan. Before achieving independence in 1947, the territory of modern Pakistan was a part of the British Indian Empire. Prior to that it was ruled in different periods by local kings and numerous imperial powers. The ancient history of the region comprising present-day Pakistan also includes some of the oldest of the names of empires of South Asia[1] and some of its major civilizations
+#
+In the 19th century, the land was incorporated into British India. Pakistan's political history began in 1906 with the birth of the All India Muslim League, established in opposition to the Indian National Congress party which it accused of failing to protect "Muslim interests, amid neglect and under-representation." On 29 December 1930, philosopher Sir Muhammad Iqbal called for an autonomous new state in "northwestern India for Indian Muslims".[6] The League rose in popularity through the late 1930s. Muhammad Ali Jinnah espoused the Two Nation Theory and led the League to adopt the Lahore Resolution[7] of 1940, demanding the formation of independent states in the East and the West of British India. Eventually, a successful movement led by Jinnah resulted in the partition of India and independence from Britain, on 14 August 1947.
+#
